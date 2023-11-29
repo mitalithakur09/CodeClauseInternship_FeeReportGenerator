@@ -1,0 +1,14 @@
+Task-2  FeeReportGenerator 
+
+Project Description:
+
+This is a FeeReprtGenerator project where we can perform CURD operation and  data base will update in realtime.
+
+Technology used-
+
+IDE- Eclipse
+DataBase- MySQL
+Server - Xampp
+Connector- mysql-connector-j-8.2.0
+Back-End - Java, SQl
+UI- Swing 
